@@ -1,3 +1,4 @@
+![cap](https://github.com/user-attachments/assets/c4a89d51-37fe-454a-b2ce-f641bfab7011)
 # WordPress Vulnerability Scanner
 
 This tool scans WordPress sites for potential security vulnerabilities without exploiting them. It can identify common security issues, plugins, and themes, and automatically fetches CVE vulnerability data to provide detailed information about known security issues.
